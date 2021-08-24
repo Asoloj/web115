@@ -1,0 +1,27 @@
+body {
+    background-color:lightslategray;
+    font-family: sans-serif;
+}
+
+h1 {
+    color:white;
+    margin-left: 20px;
+    max-width: 250px;
+    height: 50%;
+    background-color: burlywood;
+}
+
+header {
+    color: white;
+    margin-left: 20px;
+}
+
+main {
+    color:white;
+    margin-left: 20px;
+}
+
+.myDiv {
+    color:white;
+    margin-left: 20px;
+}
